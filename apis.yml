@@ -1,0 +1,32 @@
+aid: tetr-io
+name: TETR.IO
+description: "TETR.IO Tetra Channel API"
+url: https://tetr.io/about/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: TETR.IO
+    description: "TETR.IO Tetra Channel API"
+    humanURL: https://tetr.io/about/api/
+    baseURL: https://tetr.io/about/api/
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://tetr.io/about/api/
+common:
+  - type: Website
+    url: https://tetr.io/about/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
