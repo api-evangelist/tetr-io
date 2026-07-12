@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://tetr.io/about/api/
 common:
+  - type: DomainSecurity
+    url: security/tetr-io-domain-security.yml
   - type: Website
     url: https://tetr.io/about/api/
   - type: PublicAPIsListing
