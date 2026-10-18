@@ -40,7 +40,8 @@ apis:
   - name: TETR.IO
     description: "TETR.IO Tetra Channel API"
     humanURL: https://tetr.io/about/api/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
